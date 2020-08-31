@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: Goodshilei
+name: Goodshilei
+description: a Coder
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/goodshil
 rss: true
 
 plugins:
